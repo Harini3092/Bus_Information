@@ -1,0 +1,2 @@
+The algorithm can be based on pure image processing or deep learning based model which should also be able to support new types of objects (That are not seen by the 
+algorithms). The algorithm should take set of images as input and produce the output in 3D format. Open3D or similar open source can be used to showcase the results.

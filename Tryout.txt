@@ -1,0 +1,213 @@
+                TRYOUT I
+
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title> Homepage </title> 
+    </head> 
+    <body> Happy Learning </body> 
+    
+</html>
+
+
+
+           TRYOUT II
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Homepage</title>
+    </head>
+    <body>
+        Hello World!
+    </body>
+</html>
+
+
+        TRYOUT III
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Regarding us</title>
+</head>
+
+<body>
+    <h1>About Us</h1>
+    <h4>WayFar - Making Moments to Memories</h4>
+    <p>At the heart of everything we do at WayFar, is add magic to our customers' trips. We do this by offering them over 500
+        unforgettable experiences like staying in a floating cottage, dining like the royals,dining in houseboats and many
+        more. Be it in India or abroad, each of our trips has something unique for families to love together, laugh together
+        and grow together.</p>
+    <P>Moreover,this is at the heart of what WayFar stands for. More to savor, more to sample, more to experience, more to love.
+        Whether you’re travelling with us or planning with us, we will make sure you get more of what you want: choice. As
+        a WayFar member, you will have the world at your finger tips, with special offers, select access to leisure facilities
+        and exclusive privileges all over the world.</p>
+</body>
+
+</html>
+
+
+            TRYOUT IV
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1> I am first paragraph.</h1>
+        <p> I am second paragraph.</p>
+        <p>Paragraph is block element.</p>
+        <span>I am first span.</span>
+        <span>I am second span.</span>
+        <span>Span is inline element.</span>
+    </body>
+</html>
+
+
+          TRYOUT V
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Paragraph 1</p>
+        <p>Paragraph 2</p>
+        <p>This paragraph is commented</p>
+    </body>
+</html>
+
+
+          TRYOUT VI
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <title>Meta tag example</title>
+
+  <!-- Specifies the character encoding for the document. -->
+  <!-- ISO-8859-1 -->
+  <meta charset="utf-8">
+
+  <meta name="harini" content="Susan">
+  <meta name="description" content="This is a sample demo to understand HTML.">
+  
+  <!-- A web app wants to allow content from a current domain and truste domain xyz 
+    and all its subdomains -->
+  <meta http-equiv="content-security-policy" content="default-src 'self' http://xyz.com" >
+
+  <!-- Specify the preferred style sheet to use.-->
+  <meta http-equiv="default-style" content="/style.css">
+
+   <!-- page content display to be adjusted to the device width being used to view the content with initial zoom level as 100% -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <p> Sample demo to explain meta tag with attributes </p>
+</body>
+
+</html>
+
+
+             TRYOUT VII
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <header>
+            <nav> Login | SignUp </nav> 
+            <h1> Brand Name </h1>
+        </header>
+
+        <article>
+            <section>
+                <p>Paragraph 1</p>
+                <p>Paragraph 2 is thematically related to Paragraph 1</p>
+            </section>
+        </article>
+        <article>
+            <section>
+                <p>Paragraph 3</p>
+                <p>Paragraph 4 is thematically related to Paragraph 1</p>
+            </section>
+        </article>
+        <aside>
+            Side info
+        </aside>
+        <footer>
+            <nav> About Us | Contact Us </nav>
+        </footer>
+    </body>
+</html>
+
+
+
+             TRYOUT VIII
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Paragraph 1</p>
+        <p>Paragraph 2</p>
+        <p>Paragraph 3</p>
+        <p>Paragraph 4</p>
+    </body>
+</html>
+
+
+           TRYOUT IX
+
+<!DOCTYPE html>
+<html>
+    <body>
+         <!-- Groups all 3 paragraphs -->
+            <p>Paragraph 1</p>
+            <p>Paragraph 2</p>
+            <p>Paragraph 3</p>
+            <span> paragraph 4</span>
+       
+    </body>
+</html>
+
+
+          TRYOUT X
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <ul>
+            <li> One </li>
+            <ul>
+            <li>Bananas</li>
+             <li>Apples</li>
+             <li>mango</li>
+             </ul>
+            <li> Two </li>
+            <li> Three </li>
+            <li> four </li>
+        </ul>
+    </body>
+</html>
+
+
+
+           TRYOUT XI
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <ol reversed>
+            <li>One</li>
+            <li>Two</li>
+            <li>Three</li>
+        </ol>
+        <ol start="4">
+            <li>Four</li>
+            <li>Five</li>
+            <li>Six</li>
+        </ol>
+    </body>
+</html>
+
+
+            TRYOUT XII
